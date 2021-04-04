@@ -41,6 +41,7 @@ const server = {
     path: path.resolve(buildPath, 'server')
   },
   target: 'node',
+  performance: { hints: false }
 };
 
 const client = {
@@ -78,6 +79,7 @@ const client = {
     filename: '[contenthash].client.js',
     path: path.resolve(buildPath, 'client'),
   },
+  performance: { hints: false }
 };
 
 module.exports = [server, client];
