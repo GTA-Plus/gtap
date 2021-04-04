@@ -2,10 +2,10 @@
 exports.up = function(knex) {
     const users_table = `
     CREATE TABLE users(   
-        game_licence VARCHAR(255) NOT NULL,
+        game_license VARCHAR(255) NOT NULL,
         cash INT DEFAULT 10000,
         bank INT DEFAULT 10000,
-        PRIMARY KEY (game_licence)
+        PRIMARY KEY (game_license)
     )
     `
     return knex.raw(users_table)
