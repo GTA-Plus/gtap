@@ -1,7 +1,3 @@
-onNet('helloserver', () => {
-  const _source = (global as any).source;
+import * as GTAPlusServer from './exports';
 
-  console.log(`Hello from ${_source}`);
-
-  emitNet('helloclient', _source, 'i got your message!');
-});
+new GTAPlusServer.Core
