@@ -14,6 +14,17 @@ export class Core {
         onNet('playerConnecting', () => {
             this.db.sync.execute('INSERT IGNORE INTO users(game_license) VALUES (?)',[this.getGameLicense()] )
         })
+
+        onNet('GTAPlusServer:updateMoney', async (difference: number) => {
+            const lic = this.getGameLicense()
+            const roundedDifference = Math.round(difference)
+
+            await this.db.async.execute('UPDATE users SET bank = bank + ? WHERE game_license = ?', [roundedDifference, lic])
+            const [rows, fields] = await this.db.async.execute('SELECT bank from users WHERE game_license = ?', [lic] )
+            console.log('HERE')
+            console.log(rows[0].bank)
+            emitNet('GTAPlusClient:updateMoney', source, rows[0].bank)
+        })
     }
 
     getGameLicense(): string {
