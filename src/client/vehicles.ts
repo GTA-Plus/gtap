@@ -9,24 +9,24 @@ export interface VehicleData {
   }
 
 export class Vehicles {
-    allVehicles: Array<VehicleData>
+    all: Array<VehicleData>
 
     constructor() {
-        this.getAllVehicles()
+        this.getall()
     }
 
-    getAllVehicles(): void {
+    getall(): void {
         const file = LoadResourceFile(GetCurrentResourceName(),"data/vehicles.json")
         
         const vehiclesParsed = JSON.parse(file)
 
-        this.allVehicles = []
+        this.all = []
 
         _.forOwn( vehiclesParsed, (cJson, vClass) => { 
 
         _.forOwn( cJson, (vJson, vName) => {
             if (vJson.model !== undefined){
-            this.allVehicles.push( 
+            this.all.push( 
                 {
                 price: vJson.price,
                 model: vJson.model,

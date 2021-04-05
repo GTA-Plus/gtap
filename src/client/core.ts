@@ -22,7 +22,7 @@ export class Core {
   startLoops() {
     Loop(0, () => {         
       if (IsControlJustReleased(0, 27)) {
-        this.menus.menus['main'].open()
+        this.menus.all['main'].open()
       } 
     })
   }

@@ -7,7 +7,7 @@ interface MenuObject {
 }
 
 export class Menus {
-    menus: MenuObject
+    all: MenuObject
     core: GTAP.Core
 
     constructor(core: GTAP.Core) {
@@ -20,7 +20,7 @@ export class Menus {
         this.addMenu(parentMenuName, parentMenuName + 'ByMake', 'By Make', 'Sort Vehicles By Make')
     
         _.sortBy(vehicles, ['type', 'name']).forEach( (vehicle) => {
-          if (this.menus[parentMenuName + vehicle.type] === undefined){
+          if (this.all[parentMenuName + vehicle.type] === undefined){
             this.addMenu(parentMenuName +  'ByClass', parentMenuName + vehicle.type, vehicle.type, 'Vehicles in ' + vehicle.type )
           }
     
@@ -36,19 +36,19 @@ export class Menus {
             vBtn.RightLabel = '$' + vehicle.price.toLocaleString()
           }
           
-          this.menus[parentMenuName + vehicle.type].addItem(vBtn)
+          this.all[parentMenuName + vehicle.type].addItem(vBtn)
         })
       }
     
       generateMainMenu(): void {
-        this.menus = {} as MenuObject
-        this.menus['main'] = new Cfx.Menu('GTA Plus', 'Main Menu')
+        this.all = {} as MenuObject
+        this.all['main'] = new Cfx.Menu('GTA Plus', 'Main Menu')
         this.addMenu('main', 'vehicles', 'Vehicles', 'Vehicles Menu')
         this.addMenu('vehicles', 'vehicleSpawner', 'Vehicle Spawner', 'Vehicle Spawn Menu')
-        this.populateVehicleMenu('vehicleSpawner', this.core.vehicles.allVehicles)
+        this.populateVehicleMenu('vehicleSpawner', this.core.vehicles.all)
       }
     
       addMenu(parent: string, namespace: string, title: string, description: string ): Cfx.Menu {
-        return this.menus[namespace] = this.menus[parent].addNewSubMenu(title, description)
+        return this.all[namespace] = this.all[parent].addNewSubMenu(title, description)
       }
 }
