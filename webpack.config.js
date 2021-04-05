@@ -16,6 +16,7 @@ const server = {
     ],
   },
   plugins: [
+    new webpack.IgnorePlugin({ resourceRegExp: /^pg-native$/ }),
     new webpack.DefinePlugin({ 'global.GENTLY': false }),
     new RemovePlugin({
       before: {
@@ -56,6 +57,7 @@ const client = {
     ],
   },
   plugins: [
+    new webpack.IgnorePlugin({ resourceRegExp: /^pg-native$/ }),
     new RemovePlugin({
       before: {
         include: [

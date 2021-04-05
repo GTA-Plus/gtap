@@ -1,18 +1,29 @@
-import * as mysql from 'mysql2'
-import * as mysqlPromise from 'mysql2/promise'
+import * as postgres from 'pg'
 
 export class Database {
-    sync: mysql.Pool
-    async: mysqlPromise.Pool
+    pool: postgres.Pool
 
     constructor() {
-        this.sync = mysql.createPool({
+        this.pool = new postgres.Pool({
             host: 'localhost',
-            user: 'gtaplus',
-            database: 'gtaplus',
-            password: 'gtaplus'
-        })
+            user: 'gtap_dev',
+            password: 'gtap_dev',
+            database: 'gtap_dev'
+        })    
+    }
 
-        this.async = this.sync.promise()
+    async query(sql: string, variables?: Array<any>): Promise<postgres.QueryResult> {
+        return new Promise(async (resolve) => {
+            this.pool.query(sql, variables)
+            .then(res => resolve(res))
+            .catch(e => { console.error('DB ERROR: ' + e.message); console.error(e.stack) })
+        })
+    }
+
+    async getFirst(sql: string, variables?: Array<any>): Promise<postgres.QueryResultRow> {
+        return new Promise(async (resolve) => {
+            this.query(sql, variables)
+            .then(res => resolve(res.rows[0]))
+        })
     }
 }

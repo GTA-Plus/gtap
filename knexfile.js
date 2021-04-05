@@ -3,12 +3,12 @@
 module.exports = {
 
   development: {
-    client: 'mysql2',
+    client: 'pg',
     connection: {
       host: 'localhost',
-      user: 'gtaplus',
-      password: 'gtaplus',
-      database: 'gtaplus'
+      user: 'gtap_dev',
+      password: 'gtap_dev',
+      database: 'gtap_dev'
     }
   }
 };
