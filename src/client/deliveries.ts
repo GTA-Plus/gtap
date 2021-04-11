@@ -68,11 +68,8 @@ export class Deliveries {
 
     updatePostmatesDeliveries(numberOfRoutes: number): void {       
         this.core.menus.all.postmatesDelivery.clear()
-        console.log('**********')
         for(let i = 0; i < numberOfRoutes; i++) {
             const locLength = this.locations.length
-
-            console.log(this.deliveryRNG.nextInt(0, locLength-1))
 
             const pickup = this.locations[this.deliveryRNG.nextInt(0, locLength-1)];
             const dropoff = this.locations[this.deliveryRNG.nextInt(0, locLength-1)];
