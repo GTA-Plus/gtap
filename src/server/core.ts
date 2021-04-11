@@ -13,20 +13,23 @@ export class Core {
 
     async registerEvents(): Promise<void> {
         onNet('playerConnecting', async () => {
-            await this.db.query('INSERT INTO users(game_license) VALUES ($1) ON CONFLICT DO NOTHING',[this.getGameLicense()])
+            await this.db.query('INSERT INTO users(game_license) VALUES ($1) ON CONFLICT DO NOTHING',[this.getGameLicense(source)])
         })
 
         onNet('GTAPlusServer:updateMoney', async (difference: number) => {
+            const src = source
+
             const results = await this.db.getFirst(
                 'UPDATE users SET bank = bank + $1 WHERE game_license = $2 RETURNING bank', 
-                [Math.round(difference), this.getGameLicense()]
+                [Math.round(difference), this.getGameLicense(src)]
                 )
-                
-            emitNet('GTAPlusClient:updateMoney', source, results.bank)
+            
+            console.log(results)
+            emitNet('GTAPlusClient:updateMoney', src, results.bank)
         })
     }
 
-    getGameLicense(): string {
+    getGameLicense(src: string): string {
         const numID = GetNumPlayerIdentifiers(source)
 
         const licenseRegex = /(?<=license:).*/g
