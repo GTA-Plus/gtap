@@ -2,10 +2,13 @@ import * as GTAPlusServer from './exports'
 
 export class Core {
     db: GTAPlusServer.Database
+    deliveries: GTAPlusServer.Deliveries
 
     constructor(){
-        this.db = new GTAPlusServer.Database
+        this.db = new GTAPlusServer.Database()
         this.registerEvents()
+
+        this.deliveries = new GTAPlusServer.Deliveries()
     }
 
     async registerEvents(): Promise<void> {

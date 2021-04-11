@@ -1,16 +1,10 @@
-type LoopCallBack = (args?: Array<any>) => boolean;
+type LoopCallBack = (args?: Array<any>) => void;
 
-export function Delay(ms: number) { return new Promise(res => setTimeout(res, ms)) }
-export async function Loop(ms: number, fn: LoopCallBack, args: Array<any> = []) {
-    const currentLoop = setTick(async () => 
+export function Delay(ms: number): Promise<NodeJS.Timeout> { return new Promise(res => setTimeout(res, ms)) }
+export async function Loop(ms: number, fn: LoopCallBack, args: Array<any> = []): Promise<void> {
+    setTick(async () => 
     {
-        if (fn(...args)) {clearTick(currentLoop)}
+        fn(...args)
         if (ms > 0) { await Delay(ms) }
     })
-}
-
-export function Notify(str: string) {
-    BeginTextCommandThefeedPost("STRING")
-    AddTextComponentSubstringPlayerName(str)
-    EndTextCommandThefeedPostTicker(true, false)
 }

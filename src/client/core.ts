@@ -16,13 +16,13 @@ export class Core {
     this.deliveries = new GTAP.Deliveries(this)
   }
   
-  registerEvents() {
+  registerEvents(): void {
     onNet('GTAPlusClient:updateMoney', (ammount: number) => {
       StatSetInt('BANK_BALANCE', ammount, true)
     })
   }
 
-  startLoops() {
+  startLoops(): void {
     Loop(0, () => {         
       if (IsControlJustReleased(0, 27)) {
         this.menus.all['main'].open()
@@ -30,6 +30,12 @@ export class Core {
 
       return false
     })
+  }
+
+  notify(str: string): void {
+    BeginTextCommandThefeedPost("STRING")
+    AddTextComponentSubstringPlayerName(str)
+    EndTextCommandThefeedPostTicker(true, false)
   }
   
 }

@@ -1,7 +1,8 @@
 import * as GTAP from './exports'
-import _, { delay, pick } from 'lodash'
 import * as Cfx from 'fivem-js'
-import { Delay, Notify } from '../common'
+import { Delay } from '../common'
+import Prando from 'prando'
+import _ from 'lodash'
 
 export enum DeliveryType {
     Postmates, 
@@ -31,6 +32,7 @@ export class Deliveries {
     core: GTAP.Core
     currentDelivery: DeliveryData
     currentBlip: Cfx.Blip
+    deliveryRNG: Prando
     
     constructor(core: GTAP.Core){
         this.core = core
@@ -38,7 +40,16 @@ export class Deliveries {
         const locationsJSON = LoadResourceFile('gtap', 'data/locations.json')
         this.locations = JSON.parse(locationsJSON)
         this.generateDeliveriesMenu()
-        this.updateAllDelieveries(10)
+        this.registerEvents()
+
+        emitNet('gtapServer:getAllDeliveries')
+    }
+
+    registerEvents(): void {
+        onNet('gtapClient:updateAllDeliveries', (seed: number) => {
+            this.deliveryRNG = new Prando(seed)
+            this.updateAllDelieveries(10)
+        } )
     }
 
     generateDeliveriesMenu(): void {
@@ -51,14 +62,20 @@ export class Deliveries {
 
     updateAllDelieveries(numberOfRoutes: number): void {
         this.updatePostmatesDeliveries(numberOfRoutes)
+
+        this.core.notify('New deliviers are now available!')
     }
 
     updatePostmatesDeliveries(numberOfRoutes: number): void {       
         this.core.menus.all.postmatesDelivery.clear()
-
+        console.log('**********')
         for(let i = 0; i < numberOfRoutes; i++) {
-            const pickup = _.sample(this.locations)
-            const dropoff = _.sample(this.locations)
+            const locLength = this.locations.length
+
+            console.log(this.deliveryRNG.nextInt(0, locLength-1))
+
+            const pickup = this.locations[this.deliveryRNG.nextInt(0, locLength-1)];
+            const dropoff = this.locations[this.deliveryRNG.nextInt(0, locLength-1)];
 
             const btn = new Cfx.UIMenuItem(`${pickup.name} to ${dropoff.name}`)
 
@@ -70,7 +87,7 @@ export class Deliveries {
         }
     }
 
-    async goTo(location: LocationData) {
+    async goTo(location: LocationData): Promise<void> {
         const blip = new Cfx.Blip(AddBlipForCoord(location.x, location.y, location.z))
         blip.Sprite = Cfx.BlipSprite.PersonalVehicleCar
         blip.Name = location.name
@@ -89,7 +106,7 @@ export class Deliveries {
         }
     }
 
-    async startDelivery(pickup: LocationData, dropoff: LocationData, type: DeliveryType){
+    async startDelivery(pickup: LocationData, dropoff: LocationData, type: DeliveryType): Promise<void> { 
         if (_.isEqual(this.currentDelivery, {pickup: pickup, dropoff: dropoff, type: type } as DeliveryData )) {
             return null
         } else {
@@ -97,6 +114,10 @@ export class Deliveries {
         }
 
         await this.goTo(pickup)
-        Notify('GOOD JOB BUDDY!')
+        this.core.notify('Delivery items picked up! Proceed to dropoff desintation to complete delivery.')
+        this.currentBlip.delete()
+
+        await this.goTo(dropoff)
+        this.core.notify('Delivery complete!')
     }
 }
