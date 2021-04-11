@@ -30,12 +30,12 @@ export class Core {
     }
 
     getGameLicense(src: string): string {
-        const numID = GetNumPlayerIdentifiers(source)
+        const numID = GetNumPlayerIdentifiers(src)
 
         const licenseRegex = /(?<=license:).*/g
 
         for(let i = 0; i < numID; i++) {
-            const idString = GetPlayerIdentifier(source, i)
+            const idString = GetPlayerIdentifier(src, i)
 
             const licenseMatch = idString.match(licenseRegex)
             
