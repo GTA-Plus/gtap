@@ -1,0 +1,2873 @@
+[
+    {
+        "name": "Location",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "0604 Las Lagunas Boulevard, Apt. 4",
+        "x": 11.482,
+        "y": 81.433,
+        "z": 79.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Abandon Mine",
+        "x": -595.342,
+        "y": 2086.008,
+        "z": 131.412,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Airplane Graveyard Airplane Tail ",
+        "x": 2395.096,
+        "y": 3049.616,
+        "z": 60.053,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Airport - Airstrip",
+        "x": -1336.0,
+        "y": -3044.0,
+        "z": 13.9,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Airport - Helipad",
+        "x": -1102.29,
+        "y": -2894.52,
+        "z": 13.947,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Airport Entrance",
+        "x": -1034.6,
+        "y": -2733.6,
+        "z": 13.8,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Airport Terminal",
+        "x": -1561.525,
+        "y": -3232.345,
+        "z": 27.336,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Altruist Camp",
+        "x": -1170.115,
+        "y": 4926.134,
+        "z": 224.355,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Altruist Camp - Altar",
+        "x": -1166.0,
+        "y": 4927.0,
+        "z": 224.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Altruist Camp - Roof",
+        "x": -1143.15,
+        "y": 4951.188,
+        "z": 230.153,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Altruist Cult Camp",
+        "x": -1170.841,
+        "y": 4926.646,
+        "z": 224.295,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Ammunation (Sandy Shore)",
+        "x": 1696.105,
+        "y": 3755.167,
+        "z": 34.705,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Ammunation Gun Range",
+        "x": 22.153,
+        "y": -1072.854,
+        "z": 29.797,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Ammunation Office",
+        "x": 12.494,
+        "y": -1110.13,
+        "z": 29.797,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Ammunation, Hawick",
+        "x": 247.365,
+        "y": -45.878,
+        "z": 69.941,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Another pool",
+        "x": -1197.156,
+        "y": -246.153,
+        "z": 37.955,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Apartment Medium-end",
+        "x": 347.0,
+        "y": -999.0,
+        "z": -99.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Avi Hideout (Kill Boost Island)",
+        "x": -2177.44,
+        "y": 5182.596,
+        "z": 16.475,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Beach Blazer location",
+        "x": -1595.649,
+        "y": -1128.087,
+        "z": 1.832,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Beach Skatepark",
+        "x": -1374.881,
+        "y": -1398.835,
+        "z": 6.141,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Behind sewer gate",
+        "x": 1234.459,
+        "y": -1080.1,
+        "z": 31.157,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Bike race",
+        "x": 2124.526,
+        "y": 1668.709,
+        "z": 96.271,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Black UFO",
+        "x": -2052.662,
+        "y": 3236.953,
+        "z": 1466.315,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Blaine County Savings Bank",
+        "x": -109.299,
+        "y": 6464.035,
+        "z": 31.627,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "BuildingTop/ledge (Scenic)",
+        "x": 201.976,
+        "y": -567.62,
+        "z": 131.668,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Burnt FIB Building",
+        "x": 160.868,
+        "y": -745.831,
+        "z": 250.063,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Calafia Train Bridge",
+        "x": -517.869,
+        "y": 4425.284,
+        "z": 89.795,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Car Wash - Hands on",
+        "x": 53.94,
+        "y": -1390.77,
+        "z": 29.373,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Cargo Ship",
+        "x": 899.678,
+        "y": -2882.191,
+        "z": 19.013,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Carrier (MP Only)",
+        "x": 3069.33,
+        "y": -4704.22,
+        "z": 15.043,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Casino",
+        "x": 925.329,
+        "y": 46.152,
+        "z": 80.908,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Cave",
+        "x": -1909.682,
+        "y": 1389.148,
+        "z": 218.46,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Chicken",
+        "x": -31.01,
+        "y": 6316.83,
+        "z": 40.083,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Chumash",
+        "x": -3192.6,
+        "y": 1100.0,
+        "z": 20.2,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Chumash Historic Family Pier",
+        "x": -3426.683,
+        "y": 967.738,
+        "z": 8.347,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Comedy Club",
+        "x": 377.088,
+        "y": -991.869,
+        "z": -97.604,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Construction Site - Crane (1)",
+        "x": -167.982,
+        "y": -1001.93,
+        "z": 296.206,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Construction Site - Crane (2) Balcony",
+        "x": -120.351,
+        "y": -977.861,
+        "z": 304.248,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Construction Site - Crane 3 (Scenic)",
+        "x": -119.86,
+        "y": -976.439,
+        "z": 306.339,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Construction Site on building",
+        "x": -147.593,
+        "y": -964.695,
+        "z": 254.133,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Construction Site, Building Wireframe",
+        "x": -129.384,
+        "y": -951.133,
+        "z": 218.882,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Crop field",
+        "x": 270.54,
+        "y": 6614.443,
+        "z": 29.842,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Damaged Hospital",
+        "x": 356.822,
+        "y": -590.151,
+        "z": 43.315,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Deathmatch",
+        "x": 138.133,
+        "y": -1448.68,
+        "z": 29.224,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Del Perro Heights Entrance Trigger",
+        "x": -1440.47,
+        "y": -544.029,
+        "z": 35.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Del Perro Heights, Apt. 20",
+        "x": -1466.041,
+        "y": -532.23,
+        "z": 56.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Del Perro Pier",
+        "x": -1850.127,
+        "y": -1231.751,
+        "z": 13.017,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Del Perro Pier - Ferris Wheel",
+        "x": -1670.7,
+        "y": -1125.0,
+        "z": 13.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Devin Weston's House",
+        "x": -2639.872,
+        "y": 1866.812,
+        "z": 160.135,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Director Mod Trailer",
+        "x": -20.004,
+        "y": -10.889,
+        "z": 500.602,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Eclipse Towers (Outside)",
+        "x": -775.05,
+        "y": 312.32,
+        "z": 85.7,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Eclipse Towers Entrance Trigger",
+        "x": -778.615,
+        "y": 312.671,
+        "z": 86.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Eclipse Towers Garage (Outside)",
+        "x": -795.46,
+        "y": 308.89,
+        "z": 85.71,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Eclipse Towers Roof",
+        "x": -769.8,
+        "y": 331.208,
+        "z": 234.269,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Eclipse Towers, Apt 3",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Eclipse Towers, Apt 31",
+        "x": -790.0,
+        "y": 336.0,
+        "z": 207.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Eclipse Towers, Apt 31 - Shower",
+        "x": -796.938,
+        "y": 333.721,
+        "z": 210.834,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Eclipse Towers, Apt 40",
+        "x": -764.0,
+        "y": 321.0,
+        "z": 220.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Eclipse Towers, Apt 5",
+        "x": -790.0,
+        "y": 336.0,
+        "z": 159.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Eclipse Towers, Apt 9",
+        "x": -764.0,
+        "y": 321.0,
+        "z": 175.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "El Gordo Lighthouse",
+        "x": 3430.155,
+        "y": 5174.196,
+        "z": 41.28,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Elburro Heights",
+        "x": 1384.0,
+        "y": -2057.1,
+        "z": 52.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Elysian Island",
+        "x": 338.2,
+        "y": -2715.9,
+        "z": 38.5,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Elysian Island Base",
+        "x": 574.391,
+        "y": -3121.322,
+        "z": 18.769,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "End Island",
+        "x": 33.756,
+        "y": 7692.737,
+        "z": 2.579,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Epsilon Building",
+        "x": -695.025,
+        "y": 82.955,
+        "z": 55.855,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Far End Island 2",
+        "x": 25.862,
+        "y": 7676.768,
+        "z": 1.583,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "FIB Building",
+        "x": 135.522,
+        "y": -749.001,
+        "z": 261.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "FIB Building Burnt",
+        "x": 132.387,
+        "y": -758.833,
+        "z": 250.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "FIB Building Roof",
+        "x": 135.522,
+        "y": -749.001,
+        "z": 266.61,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "FIB Roof",
+        "x": 150.126,
+        "y": -754.591,
+        "z": 262.865,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "FIB Top Floor",
+        "x": 135.733,
+        "y": -749.216,
+        "z": 258.152,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Floyd's Apartment",
+        "x": -1150.703,
+        "y": -1520.713,
+        "z": 10.633,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Fort (Water Body) - Good forJetskiing",
+        "x": 1720.952,
+        "y": 33.937,
+        "z": 159.746,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Fort building near dam",
+        "x": 1663.361,
+        "y": -27.398,
+        "z": 173.775,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Fort pier (near dam)",
+        "x": 1693.261,
+        "y": 44.338,
+        "z": 161.769,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Fort Zancudo ATC entrance",
+        "x": -2344.373,
+        "y": 3267.498,
+        "z": 32.811,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Fort Zancudo ATC top floor",
+        "x": -2358.132,
+        "y": 3249.754,
+        "z": 101.451,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Fort Zankudo UFO",
+        "x": 2052.0,
+        "y": 3237.0,
+        "z": 1456.973,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Franklin - New House",
+        "x": 7.9,
+        "y": 548.1,
+        "z": 175.5,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Franklin - New House (Inside)",
+        "x": 7.415,
+        "y": 535.549,
+        "z": 176.028,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Franklin - Old House",
+        "x": -14.128,
+        "y": -1445.483,
+        "z": 30.648,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Franklin - Old House (Inside)",
+        "x": -14.969,
+        "y": -1436.443,
+        "z": 32.119,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Franklins - New House Bedroom",
+        "x": 2.601,
+        "y": 525.518,
+        "z": 170.617,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Galileo Observatory Roof",
+        "x": -438.796,
+        "y": 1075.821,
+        "z": 353.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Galileo Observatory Roof",
+        "x": -438.804,
+        "y": 1076.097,
+        "z": 352.411,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Garage",
+        "x": 222.542,
+        "y": -999.838,
+        "z": -99.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Garage - 10 Cars",
+        "x": 229.357,
+        "y": -992.911,
+        "z": -99.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Garage - 10 Cars (Back room)",
+        "x": 222.592,
+        "y": -968.1,
+        "z": -99.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Garage - 10 Cars (Near Elevator)",
+        "x": 234.0,
+        "y": -1004.0,
+        "z": -98.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Garage - 6 Cars",
+        "x": 204.952,
+        "y": -994.91,
+        "z": -99.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Garage car tools",
+        "x": 211.25,
+        "y": -962.75,
+        "z": 24.967,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Garage wall (Use to get weapons back)",
+        "x": 220.6,
+        "y": -1006.76,
+        "z": -99.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "God's thumb",
+        "x": -1006.402,
+        "y": 6272.383,
+        "z": 1.503,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Grapeseed Air Field",
+        "x": 2124.033,
+        "y": 4800.586,
+        "z": 41.003,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Heist - Aircraft Carrier",
+        "x": 3084.73,
+        "y": -4770.709,
+        "z": 16.262,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Hidden Garage (No Enter/Exit)",
+        "x": -20.43,
+        "y": -685.106,
+        "z": 32.338,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Highway for Running",
+        "x": 1308.46,
+        "y": 590.709,
+        "z": 80.241,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Hippy Camp",
+        "x": 2476.712,
+        "y": 3789.645,
+        "z": 41.226,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Horses Head",
+        "x": -690.976,
+        "y": -243.348,
+        "z": 45.829,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Hospital Helipads",
+        "x": 322.055,
+        "y": -1448.038,
+        "z": 46.51,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Human Research Lab (Deep)",
+        "x": 3628.01,
+        "y": 3748.272,
+        "z": -16.356,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Humane Labs Entrance",
+        "x": 3619.749,
+        "y": 2742.74,
+        "z": 28.69,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Humane Labs Tunnel",
+        "x": 3525.495,
+        "y": 3705.301,
+        "z": 20.992,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Humane Research Lab (Heist Escape Beach)",
+        "x": 3852.077,
+        "y": 3625.567,
+        "z": 9.214,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Humane Research Lab (Tunnel Outside)",
+        "x": 3832.463,
+        "y": 3667.182,
+        "z": -21.646,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Humane Research Lab (Tunnel)",
+        "x": 3536.023,
+        "y": 3740.34,
+        "z": -8.863,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Humane Research Lab (Waterbody)",
+        "x": 3524.07,
+        "y": 3711.95,
+        "z": 20.991,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Humane Research Lab 1",
+        "x": 3617.231,
+        "y": 3739.871,
+        "z": 28.69,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Humane Research Lab 2",
+        "x": 3531.703,
+        "y": 3673.642,
+        "z": 28.121,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "HumaneLab (Waterbody Gate)",
+        "x": 3832.764,
+        "y": 3664.672,
+        "z": -22.097,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "IAA Building",
+        "x": 113.932,
+        "y": -618.533,
+        "z": 207.047,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "IAA Building Roof",
+        "x": 130.682,
+        "y": -634.945,
+        "z": 262.851,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "IAA Office",
+        "x": 117.22,
+        "y": -620.938,
+        "z": 206.047,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "IAA Roof",
+        "x": 134.085,
+        "y": -637.859,
+        "z": 262.851,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Impound Lot",
+        "x": 391.475,
+        "y": -1637.975,
+        "z": 29.315,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "In the Atmosphee (Above Maze Bank)",
+        "x": -65.49,
+        "y": -873.289,
+        "z": 12858.21,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Inside random building",
+        "x": -278.665,
+        "y": 6185.869,
+        "z": 31.486,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Inside Store",
+        "x": -1244.138,
+        "y": -1454.998,
+        "z": 4.348,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Jet ski drop off (Park)",
+        "x": -588.251,
+        "y": 4397.508,
+        "z": 17.398,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Jetsam",
+        "x": 760.4,
+        "y": -2943.2,
+        "z": 5.8,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Jetski pier",
+        "x": -1624.154,
+        "y": -1165.089,
+        "z": 2.096,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Jetski stop in wilderness",
+        "x": -520.712,
+        "y": 4393.545,
+        "z": 30.001,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Jolene Cranley-Evans Ghost",
+        "x": 3059.62,
+        "y": 5564.246,
+        "z": 197.091,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Jonny Tung, Rockford Hill - Inside 2",
+        "x": -869.288,
+        "y": -250.045,
+        "z": 39.78,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Kortz Center",
+        "x": -2243.81,
+        "y": 264.048,
+        "z": 174.615,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "La Puerta Freeway Bridge",
+        "x": -543.932,
+        "y": -2225.543,
+        "z": 122.366,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Land Act Dam",
+        "x": 1660.369,
+        "y": -12.013,
+        "z": 170.02,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Land Act Dam",
+        "x": 1655.813,
+        "y": 0.889,
+        "z": 173.775,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Land Race",
+        "x": 2678.692,
+        "y": 1341.611,
+        "z": 24.512,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Lester's House",
+        "x": 1275.396,
+        "y": -1714.426,
+        "z": 55.772,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Lester's House",
+        "x": 1273.898,
+        "y": -1719.304,
+        "z": 54.771,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Lester's House",
+        "x": 1248.183,
+        "y": -1728.104,
+        "z": 56.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Life Invader Office",
+        "x": -1083.59,
+        "y": -257.594,
+        "z": 38.885,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Lighthouse - Dock",
+        "x": 3369.224,
+        "y": 5184.15,
+        "z": 1.46,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Lighthouse - Dock Winding stairs",
+        "x": 3336.174,
+        "y": 5172.941,
+        "z": 18.316,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Little Portola",
+        "x": -635.463,
+        "y": -242.402,
+        "z": 38.175,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Little Seoul",
+        "x": -889.655,
+        "y": -853.499,
+        "z": 20.566,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Location for Deer (Custom Model Change)",
+        "x": 159.114,
+        "y": 3226.078,
+        "z": 40.933,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Los Santos County Coroner Office/Morgue",
+        "x": 243.351,
+        "y": -1376.014,
+        "z": 39.534,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Los Santos Customs",
+        "x": -367.734,
+        "y": -130.859,
+        "z": 39.117,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Los Santos Customs - Inside",
+        "x": -335.0,
+        "y": -136.0,
+        "z": 40.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Los Santos Customs - Roof",
+        "x": -354.882,
+        "y": -150.823,
+        "z": 74.274,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Los Santos Golf Club",
+        "x": -1336.715,
+        "y": 59.051,
+        "z": 55.246,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Maibatsu Motors Inc. - Roof",
+        "x": 895.561,
+        "y": -987.624,
+        "z": 44.271,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Main LS Customs",
+        "x": -365.425,
+        "y": -131.809,
+        "z": 37.873,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Marlowe Vineyards",
+        "x": -1868.971,
+        "y": 2095.674,
+        "z": 139.115,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Martin House - Natalia",
+        "x": -1026.797,
+        "y": 695.026,
+        "z": 162.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Maze Bank - 0 Helipad",
+        "x": -74.942,
+        "y": -818.635,
+        "z": 327.174,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Maze Bank - 1 In the Sky",
+        "x": -74.942,
+        "y": -818.635,
+        "z": 2590.223,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Maze Bank - 2 Above Clouds",
+        "x": -74.942,
+        "y": -818.635,
+        "z": 5841.424,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Maze Bank - 3 In the Atmosphere",
+        "x": -74.942,
+        "y": -818.635,
+        "z": 10800.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Maze Bank (Hanging)",
+        "x": -74.883,
+        "y": -837.608,
+        "z": 319.876,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Maze Bank Arena Entrance",
+        "x": -250.604,
+        "y": -2030.0,
+        "z": 30.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Maze Bank Arena Inside",
+        "x": -257.0,
+        "y": -2024.0,
+        "z": 31.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Maze Bank Arena Roof",
+        "x": -324.3,
+        "y": -1968.545,
+        "z": 67.002,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Maze Bank Plaza - Water Fountain",
+        "x": -104.82,
+        "y": -856.374,
+        "z": 41.087,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Maze Bank Plaza - Water Fountain with cube",
+        "x": -131.063,
+        "y": -865.81,
+        "z": 29.468,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Maze Bank Roof",
+        "x": -75.015,
+        "y": -818.215,
+        "z": 326.176,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "McKenzie Field Runway",
+        "x": 2121.7,
+        "y": 4796.3,
+        "z": 41.1,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Mechanic, Hawick",
+        "x": 546.037,
+        "y": -183.368,
+        "z": 54.498,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Merryweather Dock",
+        "x": 486.417,
+        "y": -3339.692,
+        "z": 6.07,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Meth Lab, Sandy Shores",
+        "x": 1397.524,
+        "y": 3607.423,
+        "z": 39.942,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Michael",
+        "x": -852.4,
+        "y": 160.0,
+        "z": 65.6,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Michael - Amanda",
+        "x": -815.0,
+        "y": 179.0,
+        "z": 77.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Michael - Jimmy",
+        "x": -808.0,
+        "y": 172.0,
+        "z": 77.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Michael - Tracey",
+        "x": -802.0,
+        "y": 173.0,
+        "z": 77.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Michael (Inside)",
+        "x": -813.603,
+        "y": 179.474,
+        "z": 73.159,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Mile High Club",
+        "x": -144.274,
+        "y": -946.813,
+        "z": 269.135,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Military - Jet Spawn point 1",
+        "x": -2019.06,
+        "y": 2956.453,
+        "z": 32.81,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Military - Jet Spawn point 2",
+        "x": -2148.35,
+        "y": 3031.762,
+        "z": 32.81,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Military Base",
+        "x": -2047.4,
+        "y": 3132.1,
+        "z": 32.8,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Military Base",
+        "x": -2012.847,
+        "y": 2956.527,
+        "z": 32.81,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Military Base (Jet Spawn)",
+        "x": -2148.351,
+        "y": 3031.762,
+        "z": 33.81,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Military Base Control Tower (Inside Tower)",
+        "x": -2356.094,
+        "y": 3248.645,
+        "z": 101.451,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Military Base Control Tower (Level 1)",
+        "x": -2345.793,
+        "y": 3267.464,
+        "z": 33.811,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Military Base Radio Tower",
+        "x": -2501.939,
+        "y": 3309.898,
+        "z": 92.967,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Mineshaft, Great Chaparral - Inside (Next Gen)",
+        "x": -595.0,
+        "y": 2087.0,
+        "z": 132.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Mineshaft, Great Chaparral - Inside Inaccessible Barrier",
+        "x": -420.0,
+        "y": 2065.75,
+        "z": 120.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Mineshaft, Great Chaparral - Outside",
+        "x": -598.0,
+        "y": 2096.0,
+        "z": 131.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Mirror Park",
+        "x": 1070.206,
+        "y": -711.958,
+        "z": 58.483,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Mors Mutual Impound",
+        "x": -222.198,
+        "y": -1185.85,
+        "z": 23.029,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Most Northerly Point",
+        "x": 24.775,
+        "y": 7644.102,
+        "z": 19.055,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Mount Gordo",
+        "x": 2877.633,
+        "y": 5911.078,
+        "z": 369.624,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "NOOSE Headquarters",
+        "x": 2535.243,
+        "y": -383.799,
+        "z": 92.993,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "North Yankton",
+        "x": 3217.697,
+        "y": -4834.826,
+        "z": 112.815,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "North Yankton - Alien",
+        "x": 3862.411,
+        "y": -4959.25,
+        "z": 93.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "North Yankton - Bob Security (Outside)",
+        "x": 5328.252,
+        "y": -5188.765,
+        "z": 83.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "North Yankton - Bob Security (Reception)",
+        "x": 5310.0,
+        "y": -5211.0,
+        "z": 84.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "North Yankton - Bob Security (Vault)",
+        "x": 5299.0,
+        "y": -5189.0,
+        "z": 84.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "North Yankton - Christmas Tree",
+        "x": 3557.311,
+        "y": -4675.463,
+        "z": 115.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "North Yankton - End of the road wall",
+        "x": 2574.183,
+        "y": -4779.955,
+        "z": 112.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "North Yankton - Townley Grave",
+        "x": 3259.813,
+        "y": -4571.105,
+        "z": 119.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "North Yankton Bank",
+        "x": 5309.519,
+        "y": -5212.375,
+        "z": 83.522,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "O'Neil Ranch",
+        "x": 2443.667,
+        "y": 4974.612,
+        "z": 47.5,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "O'neil Ranch",
+        "x": 2441.216,
+        "y": 4968.585,
+        "z": 51.707,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Oriental Theater",
+        "x": 293.089,
+        "y": 180.466,
+        "z": 104.301,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Pacific Bluffs Country Club",
+        "x": -3022.222,
+        "y": 39.968,
+        "z": 13.611,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Pacific Standard Bank",
+        "x": 235.046,
+        "y": 216.434,
+        "z": 106.287,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Pacific Standard Bank - Vault",
+        "x": 255.582,
+        "y": 217.69,
+        "z": 102.683,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Pacific Standard Bank Vault",
+        "x": 255.851,
+        "y": 217.03,
+        "z": 101.683,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Paleto Bay - Bank",
+        "x": -104.207,
+        "y": 6469.265,
+        "z": 32.627,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Paleto Bay - Factory Lookout",
+        "x": -179.984,
+        "y": 6150.478,
+        "z": 42.637,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Paleto Bay Beach",
+        "x": 178.33,
+        "y": 7041.822,
+        "z": 1.867,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Paleto Bay Beach - Island (Farthest)",
+        "x": 17.832,
+        "y": 7630.014,
+        "z": 13.507,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Paleto Bay Beach - Island with flowers",
+        "x": -125.654,
+        "y": 7271.894,
+        "z": 16.737,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Paleto Bay Pier",
+        "x": -275.522,
+        "y": 6635.835,
+        "z": 7.425,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Paleto Cove",
+        "x": -1441.634,
+        "y": 5410.919,
+        "z": 24.579,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Paleto Forest Sawmill Chimney",
+        "x": -549.467,
+        "y": 5308.221,
+        "z": 114.146,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "PaletoBay Shed",
+        "x": -179.0,
+        "y": 6150.0,
+        "z": 42.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Palmer-Taylor Power Station Chimney",
+        "x": 2732.931,
+        "y": 1577.54,
+        "z": 83.671,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Parachuting",
+        "x": 496.233,
+        "y": 5527.27,
+        "z": 778.473,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Pegasus Aircraft, LSIA (North)",
+        "x": -1098.49,
+        "y": -2415.405,
+        "z": 14.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Pegasus Helipad, CLS Medical Center",
+        "x": 307.5,
+        "y": -1458.93,
+        "z": 46.51,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Pegasus Helipad, Naval Port",
+        "x": 480.317,
+        "y": -3388.903,
+        "z": 7.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Pegasus Helipad, Paleto Bay Sheriff's Office",
+        "x": -466.686,
+        "y": 6013.817,
+        "z": 32.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Pegasus Helipad, Vespucci",
+        "x": -736.75,
+        "y": -1437.75,
+        "z": 5.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Pegasus Land, Vespucci Beach",
+        "x": -1570.0,
+        "y": -1142.0,
+        "z": 3.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Pegasus Land, Vinewood Theater",
+        "x": 319.788,
+        "y": 172.231,
+        "z": 104.744,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Pegasus, LSIA (Pegasus Consierge)",
+        "x": -1630.0,
+        "y": -3400.0,
+        "z": 14.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Pegasus, McKenzie Field Runway",
+        "x": 2121.7,
+        "y": 4796.3,
+        "z": 41.1,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Pegasus, Sandy Shores Airfield",
+        "x": 1747.0,
+        "y": 3273.7,
+        "z": 41.1,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Pegasus, Vinewood Racetrack",
+        "x": 1129.0,
+        "y": 51.0,
+        "z": 81.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Play Boy Mansion",
+        "x": -1475.234,
+        "y": 167.088,
+        "z": 55.841,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Playboy Mansion, Richman",
+        "x": -1464.0,
+        "y": 182.0,
+        "z": 55.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Police Station",
+        "x": 436.491,
+        "y": -982.172,
+        "z": 30.699,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Police Station, Mission Row",
+        "x": 441.209,
+        "y": -983.114,
+        "z": 31.69,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Police, Rancho - Helipad",
+        "x": 369.43,
+        "y": -1601.83,
+        "z": 36.95,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Police, Rancho - Parking Roof",
+        "x": 334.21,
+        "y": -1644.77,
+        "z": 98.496,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Ponsonbys Clothing, Burton",
+        "x": -159.3,
+        "y": -304.329,
+        "z": 39.733,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Pool",
+        "x": -17.192,
+        "y": 340.436,
+        "z": 111.341,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Pretty Hill",
+        "x": -2130.45,
+        "y": -101.44,
+        "z": 46.587,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Prison",
+        "x": 1679.049,
+        "y": 2513.711,
+        "z": 45.565,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Prison Guard Tower (North)",
+        "x": 1690.0,
+        "y": 2653.0,
+        "z": 58.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Prison Guard Tower (South)",
+        "x": 1690.0,
+        "y": 2536.0,
+        "z": 58.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Prison Gym",
+        "x": 1640.791,
+        "y": 2530.044,
+        "z": 45.565,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Prison Tower",
+        "x": 1541.629,
+        "y": 2470.14,
+        "z": 62.875,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Private Garage",
+        "x": 3601.383,
+        "y": 3668.793,
+        "z": 33.872,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Pumpkin Patch",
+        "x": 3285.229,
+        "y": 5183.538,
+        "z": 18.415,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Quarry",
+        "x": 2954.196,
+        "y": 2783.41,
+        "z": 41.004,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Race",
+        "x": -95.247,
+        "y": 4250.547,
+        "z": 31.363,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Raton Canyon - A Waterfall",
+        "x": -540.482,
+        "y": 4402.359,
+        "z": 35.379,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Raton Canyon - Calafia Bridge",
+        "x": -175.219,
+        "y": 4244.194,
+        "z": 44.073,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Raton Canyon - Creek swimming (Next to waterfall)",
+        "x": -589.532,
+        "y": 4395.39,
+        "z": 18.148,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Raton Canyon - Private Hangout (Creek)",
+        "x": -463.662,
+        "y": 4483.654,
+        "z": 36.037,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Raton Canyon - Private Hangout 2",
+        "x": -597.953,
+        "y": 4475.291,
+        "z": 25.689,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Raton Canyon Train Tracks Bridge",
+        "x": -530.675,
+        "y": 4534.996,
+        "z": 89.046,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Rebel Radio",
+        "x": 736.153,
+        "y": 2583.143,
+        "z": 79.634,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Richards Majestic, Apt. 2",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Richards Majestic, Apt. 4",
+        "x": -906.0,
+        "y": -375.0,
+        "z": 85.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Richards Majestic, Apt. 51",
+        "x": -922.0,
+        "y": -375.0,
+        "z": 109.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Rocket",
+        "x": 1608.698,
+        "y": 6438.096,
+        "z": 37.637,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Rockford Hills City Hall, Snipering Spot",
+        "x": -551.0,
+        "y": -194.0,
+        "z": 77.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Roof (Scenic View)",
+        "x": -118.822,
+        "y": -195.471,
+        "z": 94.85,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "rooftop brawl",
+        "x": -149.763,
+        "y": -943.424,
+        "z": 254.049,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Rooftop Rumble Drop off",
+        "x": -1025.44,
+        "y": 697.55,
+        "z": 161.7,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Sandy Shores Airfield",
+        "x": 1747.0,
+        "y": 3273.7,
+        "z": 41.1,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Sandy Shores Building Site Crane",
+        "x": 1051.209,
+        "y": 2280.452,
+        "z": 89.727,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Satellite Dish Antenna",
+        "x": 2034.988,
+        "y": 2953.105,
+        "z": 74.602,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Satellite Dishes",
+        "x": 2062.123,
+        "y": 2942.055,
+        "z": 47.431,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Sisyphus Theater Stage",
+        "x": 205.316,
+        "y": 1167.378,
+        "z": 227.005,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Sky",
+        "x": -129.964,
+        "y": 8130.873,
+        "z": 6705.651,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Slaughterhouse",
+        "x": -80.557,
+        "y": 6220.006,
+        "z": 31.09,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Snowman",
+        "x": 971.245,
+        "y": -1620.993,
+        "z": 30.111,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Solomon's Office",
+        "x": -1006.0,
+        "y": -476.5,
+        "z": 50.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Stab City",
+        "x": 126.975,
+        "y": 3714.419,
+        "z": 46.827,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Street for Racing/running at TOP SPEED",
+        "x": 643.324,
+        "y": -387.079,
+        "z": 42.686,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Strip Club DJ Booth",
+        "x": 126.135,
+        "y": -1278.583,
+        "z": 29.27,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Submarine Location?",
+        "x": -1606.2,
+        "y": 5266.97,
+        "z": -1.473,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Tattoo Parlor",
+        "x": 319.788,
+        "y": 172.231,
+        "z": 104.744,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Team Deathmatch",
+        "x": 361.75,
+        "y": -1957.43,
+        "z": 24.645,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "The Richman Hotel",
+        "x": -1330.911,
+        "y": 340.871,
+        "z": 64.078,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Theatre Balcony",
+        "x": 335.464,
+        "y": 170.868,
+        "z": 111.497,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Tongva Valley",
+        "x": -1523.19,
+        "y": 1494.362,
+        "z": 111.587,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Torture Room",
+        "x": 147.17,
+        "y": -2201.804,
+        "z": 4.688,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Track",
+        "x": 1226.75,
+        "y": 125.5,
+        "z": 81.839,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Trevor - Floyd's Apartment",
+        "x": -1159.034,
+        "y": -1521.18,
+        "z": 10.633,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Trevor - Trailer",
+        "x": 1985.7,
+        "y": 3812.2,
+        "z": 32.2,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Trevor - Trailer (Inside)",
+        "x": 1976.0,
+        "y": 3821.0,
+        "z": 34.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Trevor - Vanilla Unicorn",
+        "x": 97.271,
+        "y": -1290.994,
+        "z": 30.269,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Trevor's Air Field",
+        "x": 1741.496,
+        "y": 3269.257,
+        "z": 41.601,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Trevor's House",
+        "x": 1974.758,
+        "y": 3819.457,
+        "z": 33.436,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Trevor's Meth Lab",
+        "x": 1391.773,
+        "y": 3608.716,
+        "z": 38.942,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Underground - Tunnel Construction",
+        "x": 16.969,
+        "y": -646.18,
+        "z": 16.088,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Underground - Tunnel Entrance (Drain)",
+        "x": 1033.729,
+        "y": -270.564,
+        "z": 50.855,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Underground - Tunnel Loop",
+        "x": -4.579,
+        "y": -742.428,
+        "z": 16.503,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Underground Construction Site",
+        "x": 36.764,
+        "y": -639.784,
+        "z": 16.083,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "UnderGround Construction working (test)",
+        "x": -16.272,
+        "y": -593.17,
+        "z": 17.92,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Underneath Map swim",
+        "x": -1157.418,
+        "y": -2035.033,
+        "z": 0.125,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Underpass Skatepark",
+        "x": 718.341,
+        "y": -1218.714,
+        "z": 26.014,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "University of San Andreas",
+        "x": -1696.866,
+        "y": 142.747,
+        "z": 64.372,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Vanilla Unicorn DJ Booth",
+        "x": 123.0,
+        "y": -1281.0,
+        "z": 30.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Vanilla Unicorn DJ Booth (close to bar)",
+        "x": 126.121,
+        "y": -1278.513,
+        "z": 29.27,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Vanilla Unicorn Empty Room (Bug)",
+        "x": 134.121,
+        "y": -1289.58,
+        "z": 29.27,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Vanilla Unicorn Entrance",
+        "x": 127.4,
+        "y": -1307.7,
+        "z": 29.2,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Vanilla Unicorn Manager Room",
+        "x": 97.271,
+        "y": -1290.994,
+        "z": 30.269,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Vanilla Unicorn Reception",
+        "x": 124.0,
+        "y": -1298.0,
+        "z": 30.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Very High Up",
+        "x": -129.964,
+        "y": 8130.873,
+        "z": 6705.307,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Vespucci Beach",
+        "x": -1600.09,
+        "y": -1041.89,
+        "z": 13.021,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Vinewood Bowl",
+        "x": 684.593,
+        "y": 573.285,
+        "z": 131.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Vinewood Bowl Stage",
+        "x": 686.245,
+        "y": 577.95,
+        "z": 130.461,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Vinewood Cemetery ",
+        "x": -1659993.0,
+        "y": -128.399,
+        "z": 59.954,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Vinewood Garage (Storymode)",
+        "x": -66.9,
+        "y": 81.647,
+        "z": 71.53,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Vinewood Logo Top (Auto Parachute Recieve)",
+        "x": 776.878,
+        "y": 1175.608,
+        "z": 345.956,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Vinewood sign",
+        "x": 711.362,
+        "y": 1198.134,
+        "z": 348.526,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Weazel Plaza",
+        "x": -878.544,
+        "y": -445.329,
+        "z": 125.635,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Weazel Plaza Entrance Trigger",
+        "x": -914.272,
+        "y": -457.109,
+        "z": 39.65,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Weazel Plaza, Apt. 101",
+        "x": -891.0,
+        "y": -450.0,
+        "z": 125.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Weazel Plaza, Apt. 26",
+        "x": -895.0,
+        "y": -436.0,
+        "z": 95.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Weazel Plaza, Apt. 70",
+        "x": -907.0,
+        "y": -440.0,
+        "z": 121.0,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Weed Farm",
+        "x": 2208.777,
+        "y": 5578.235,
+        "z": 53.735,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Windfarm",
+        "x": 2354.0,
+        "y": 1830.3,
+        "z": 101.1,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Windmill Top",
+        "x": 2026.677,
+        "y": 1842.684,
+        "z": 133.313,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Yankton Farm house",
+        "x": 3547.192,
+        "y": -4675.149,
+        "z": 114.168,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Yankton Ontop of Mill",
+        "x": 3517.079,
+        "y": -4635.83,
+        "z": 138.901,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Yankton under bank",
+        "x": 5299.222,
+        "y": -5215.641,
+        "z": 1.482,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Zancudo River",
+        "x": -558.981,
+        "y": 2945.701,
+        "z": 14.592,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    },
+    {
+        "name": "Zancudo River - Dirtbike trail",
+        "x": -1202.09,
+        "y": 2802.44,
+        "z": 14.826,
+        "truckPickup": true,
+        "postmatesDropoff": true,
+        "postmatesPickup": true
+    }
+]

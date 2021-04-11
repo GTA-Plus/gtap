@@ -46,6 +46,7 @@ export class Menus {
         this.addMenu('main', 'vehicles', 'Vehicles', 'Vehicles Menu')
         this.addMenu('vehicles', 'vehicleSpawner', 'Vehicle Spawner', 'Vehicle Spawn Menu')
         this.populateVehicleMenu('vehicleSpawner', this.core.vehicles.all)
+        this.addMenu('main', 'jobs', 'Jobs', 'Jobs Menu')
       }
     
       addMenu(parent: string, namespace: string, title: string, description: string ): Cfx.Menu {

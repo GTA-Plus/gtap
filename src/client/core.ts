@@ -4,6 +4,7 @@ import {Loop} from '../common'
 export class Core {
   vehicles: GTAP.Vehicles
   menus: GTAP.Menus
+  deliveries: GTAP.Deliveries
 
   constructor(){
     this.vehicles = new GTAP.Vehicles
@@ -11,6 +12,8 @@ export class Core {
     this.registerEvents()
     this.startLoops()
     emitNet('GTAPlusServer:updateMoney', 100)
+
+    this.deliveries = new GTAP.Deliveries(this)
   }
   
   registerEvents() {
@@ -24,6 +27,8 @@ export class Core {
       if (IsControlJustReleased(0, 27)) {
         this.menus.all['main'].open()
       } 
+
+      return false
     })
   }
   
