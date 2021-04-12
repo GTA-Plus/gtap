@@ -104,17 +104,23 @@ export class Deliveries {
     }
 
     async startDelivery(pickup: LocationData, dropoff: LocationData, type: DeliveryType): Promise<void> { 
-        if (_.isEqual(this.currentDelivery, {pickup: pickup, dropoff: dropoff, type: type } as DeliveryData )) {
+        const thisDelivery = {pickup: pickup, dropoff: dropoff, type: type } as DeliveryData
+        if (_.isEqual(this.currentDelivery, thisDelivery )) {
+            this.core.notify('This job has already been started!')
             return null
         } else {
             if (this.currentBlip) { this.currentBlip.delete() }
         }
 
+        this.currentDelivery = thisDelivery
         await this.goTo(pickup)
         this.core.notify('Delivery items picked up! Proceed to dropoff desintation to complete delivery.')
         this.currentBlip.delete()
 
         await this.goTo(dropoff)
         this.core.notify('Delivery complete!')
+        this.currentBlip.delete()
+        const dist = Vdist2(dropoff.x, dropoff.y, 0, pickup.x, pickup.y, 0)
+        emitNet('GTAPlusServer:updateMoney', dist / 20_000)
     }
 }
