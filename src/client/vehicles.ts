@@ -1,4 +1,5 @@
 import _ from "lodash";
+import * as Cfx from 'fivem-js';
 
 export interface VehicleData {
     price: number
@@ -40,6 +41,24 @@ export class Vehicles {
 
         })
 
+    }
+
+    stringify(vehicle: Cfx.Vehicle): string {
+        const modObj = {}
+            
+        Object.getOwnPropertyNames(Cfx.VehicleModCollection.prototype).forEach(name => {
+          const val = vehicle.Mods[name]
+          if (typeof(val) == 'function') {return null}
+          modObj[name] = val
+        })
+
+        for(const modType in Cfx.VehicleModType) {
+          if (!isNaN(Number(modType))) {
+            modObj[modType] = vehicle.Mods.hasVehicleMod(Number(modType))
+          }
+        }
+
+        return JSON.stringify(modObj)
     }
 
 }
