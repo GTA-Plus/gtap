@@ -38,6 +38,26 @@ export class Menus {
           
           this.all[parentMenuName + vehicle.type].addItem(vBtn)
         })
+
+        _.sortBy(vehicles, ['make', 'name']).forEach( (vehicle) => {
+          if (this.all[parentMenuName + vehicle.make] === undefined){
+            this.addMenu(parentMenuName +  'ByMake', parentMenuName + vehicle.make, vehicle.make, 'Vehicles by ' + vehicle.make )
+          }
+    
+          const vBtn = new Cfx.UIMenuItem(vehicle.name)
+          
+          vBtn.activated.on(  async () => {
+            const playerCoords = Cfx.Game.PlayerPed.Position;
+            const spawnVehicle = await Cfx.World.createVehicle(new Cfx.Model(vehicle.model), playerCoords);
+            Cfx.Game.PlayerPed.setIntoVehicle(spawnVehicle, Cfx.VehicleSeat.Driver);
+          })
+    
+          if (vehicle.price !== undefined ){
+            vBtn.RightLabel = '$' + vehicle.price.toLocaleString()
+          }
+          
+          this.all[parentMenuName + vehicle.make].addItem(vBtn)
+        })
       }
     
       generateMainMenu(): void {
