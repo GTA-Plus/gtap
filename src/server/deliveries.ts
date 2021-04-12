@@ -11,7 +11,7 @@ export class Deliveries {
 
         this.registerEvents()
 
-        Loop(10_000, () => {
+        Loop(900_000, () => {
             const d = new Date()
             this.seed = d.getTime()
             emitNet('gtapClient:updateAllDeliveries', -1, this.seed  )
